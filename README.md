@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Fadlan 👋
 
-<!--
-**FdLann/FdLann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh graduate Sistem Informasi yang sedang aktif belajar dan membangun portfolio.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+- JavaScript (Node.js, Express, NestJS)
+- PHP (Laravel)
+- Python (Basic)
+- Java (Basic)
+
+**Database**
+- MySQL
+
+**Currently Learning**
+- Laravel & PHP
+- TypeScript
+
+## 📂 Projects
+- [Todo List App](https://github.com/FdLann/todo-laravel) — Laravel + MySQL + Auth
+
+## 📫 Contact
+- GitHub: [@FdLann](https://github.com/FdLann)
+
+---
+⚡ *"Belajar pelan-pelan, tapi tidak berhenti."*
